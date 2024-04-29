@@ -21,7 +21,7 @@ Currency Converter is designed to simplify the process of currency conversion fo
 - Real-Time Exchange Rates: Utilizes up-to-date exchange rate data for accurate conversions.
 
 ## Demo
-Include a link to a live demo of your project, if available.
+(https://currency-convertor-blue.vercel.app/)
 
 ## Installation
 To run Currency Converter locally, follow these steps:
